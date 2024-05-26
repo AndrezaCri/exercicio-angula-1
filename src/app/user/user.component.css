@@ -1,0 +1,17 @@
+.person-name{
+  font-weight: bold;
+  font-size: 35px;
+  text-decoration: underline;
+}
+.person{
+  list-style-type: none;
+  padding: 0;
+}
+.person li {
+  margin-bottom: 15px;
+}
+
+.person-bio {
+  margin: 5px 0 0 15px;
+}
+

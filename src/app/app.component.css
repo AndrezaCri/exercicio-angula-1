@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  font-size: 14px; /* Ajusta o tamanho da fonte geral */
+}
+.titulo {
+  font-size: 50px;
+  text-align: center;
+}
